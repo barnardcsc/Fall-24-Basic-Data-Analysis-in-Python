@@ -1,6 +1,7 @@
 # Fall-24-Basic-Data-Analysis-in-Python
 
-This workshop is taught by Gabrielle Gutierrez (Assistant Professor of Neuroscience, Barnard College) (Email: ggutierr@barnard.edu).
+This workshop is taught by Gabrielle Gutierrez (Assistant Professor of Neuroscience, Barnard College) 
+(Email: ggutierr@barnard.edu).
 
 This workshop is designed for beginners to get their feet wet working with Pandas dataframes and doing basic statistical analyses on real neuroscience data. The Drosophila connectome has data about the neurons and connections within a single fruit fly brain. Participants will be given access to a Jupyter notebook that is populated with starter code. During this workshop, we will walk through some simple analyses using Pandas dataframes, such as taking the sum of values in a column, creating a pivot table, and visualizing data. With the remaining time, participants will work in small groups to do analyses of their choice with the connectome data and to customize their visualizations.
 
